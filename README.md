@@ -18,12 +18,13 @@ Using Sequalize to seed, categorize, and manage product inventory for ECommerce.
 
 1. Run NPM Init -y
 2. Run NPM Install (make sure Sequalize is installed), I recommend installing nodemon.
-3. Type node server.js or nodemon start, on successful init you should see Server Listening,
-4. use an API tool such as Postman or Insomnia to verify HTTP requests are running successfully.
+3. Type npm run seed to seed your database.
+4. Type node server.js or nodemon start, on successful init you should see Server Listening,
+5. use an API tool such as Postman or Insomnia to verify HTTP requests are running successfully.
 
 ## Usage
 
-For detailed walkthrough, please see the video link:
+For detailed walkthrough, please see the video link: https://drive.google.com/file/d/1hsNj3qMpE5cwxsVAWErfZLXoE2BJOh49/view
 
 ## License
 
